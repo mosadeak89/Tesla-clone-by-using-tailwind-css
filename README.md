@@ -4,7 +4,7 @@
 **About Tesla:**
 Tesla, Inc. is a renowned American electric vehicle (EV) and clean energy company, founded in 2003 by Martin Eberhard and Marc Tarpenning. Elon Musk joined soon after as chairman and has since become the face of the company. Tesla's mission is to accelerate the world's transition to sustainable energy.
 
-View project
+[View project](https://tesla-clone-by-using-tailwind-css.vercel.app/)
 
 **Tools i have used:**
 
