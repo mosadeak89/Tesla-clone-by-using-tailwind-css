@@ -10,8 +10,8 @@ Tesla, Inc. is a renowned American electric vehicle (EV) and clean energy compan
 
  1. html
  2. css
- 3. AOS library
+ 3. Tailwind css
  4. csscflex box
- 5. responsive grid
+ 5. responsive Element
 
 ![enter image description here](https://github.com/mosadeak89/Tesla-clone-by-using-tailwind-css/blob/main/src/Screenshot%20%2812%29.png?raw=true)
